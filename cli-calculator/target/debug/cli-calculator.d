@@ -1,0 +1,1 @@
+C:\Users\oluka\Desktop\Road\ to\ Data\ Scientist\ and\ Computer\ Vision\Learning\ Rust\cli-calculator\target\debug\cli-calculator.exe: C:\Users\oluka\Desktop\Road\ to\ Data\ Scientist\ and\ Computer\ Vision\Learning\ Rust\cli-calculator\src\main.rs
